@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "@vitejs/plugin-basic-ssl": "^1.1.0"
+  },
+  "dependencies": {
+    "@twa-dev/sdk": "^7.10.1"
   }
 }
